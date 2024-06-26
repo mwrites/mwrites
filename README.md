@@ -1,7 +1,7 @@
 
 # Hey there 👋,
 
-Are you into AI/ML? Come say hi at [https://afkroom.com](https://afkroom.com), that's my personal lounge :D
+Are you into AI/ML, kaggle, or just bored? Come watch tv in [https://afkroom.com](https://afkroom.com)
 
 ![alt text](afkroom.png)
 
