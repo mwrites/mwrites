@@ -1,5 +1,5 @@
 
-# Hey there 👋,
+# Hey there 👋
 
 Are you into AI/ML, kaggle, or just bored? Come watch tv in [https://afkroom.com](https://afkroom.com)
 
