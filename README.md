@@ -3,7 +3,7 @@
 
 Are you into AI/ML? Come say hi (no account needed) at [https://afkroom.com](https://afkroom.com)
 
-![alt text](afkroom.png)
+![alt text](westworld.png)
 
 
 ---
