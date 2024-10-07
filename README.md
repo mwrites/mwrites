@@ -1,7 +1,7 @@
 
 # Hey there 👋
 
-Are you into AI/ML? Come say hi (no install or account needed) at [https://afkroom.com](https://afkroom.com)
+[https://afkroom.com](https://afkroom.com)
 
 ![alt text](westworld.png)
 
